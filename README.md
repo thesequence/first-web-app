@@ -2,15 +2,15 @@
 
 ### Instructions
 
--   [ ] create a repository in your github account
--   [ ] clone this repository to your local mashine
--   [ ] add index.html to root folder
--   [ ] create html std. markup (head etc.)
--   [ ] set browser language to "de"
--   [ ] set document titlte to "My first Web App"
--   [ ] import style sheet and js files from folders & external sources
--   [ ] create a main tag and add code inside like in structure img below
--   [ ] run code in your browser
+-   [X] create a repository in your github account
+-   [X] clone this repository to your local mashine
+-   [X] add index.html to root folder
+-   [X] create html std. markup (head etc.)
+-   [X] set browser language to "de"
+-   [X] set document titlte to "My first Web App"
+-   [X] import style sheet and js files from folders & external sources
+-   [X] create a main tag and add code inside like in structure img below
+-   [X] run code in your browser
 
 ### Important
 
